@@ -1,0 +1,23 @@
+Bot Status on Profile
+
+Better Terminal log
+
+Fix !delete
+
+Add !whitelist add/remove/list command
+
+Fix !command gets send into !connect chanel
+
+Make !commands not usable in servers
+
+!catch for logging chat 
+!connect {id}live parameter for live chat in dms
+
+tarn as waifu.pics Botwaifu.pics api
+/waifu {nsfw}
+
+
+
+Important:
+    Make this file more detaile rich for better workflow
+    Final Bot only add 100% working code !!!
