@@ -2,8 +2,8 @@ import discord
 from discord.ext import commands
 
 # Configuration
-BOT_TOKEN = 'MTE3NjE0NDk3MDUxNjgwMzYxNg.GfO9QX.qbpeeBsCHaKW1jUeKchQ1_ZCnUDZF1SXhOhZQA'
-BOT_NAME = 'SCROT'
+BOT_TOKEN = 'YOUR_BOT_TOKEN'
+BOT_NAME = 'YOUR_BOT_NAME'
 
 # Set up Discord bot with command prefix and intents
 intents = discord.Intents.all()
