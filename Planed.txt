@@ -16,7 +16,7 @@ Make !commands not usable in servers
 tarn as waifu.pics Botwaifu.pics api
 /waifu {nsfw}
 
-
+add single delete for !purge  {message id}
 
 Important:
     Make this file more detaile rich for better workflow
